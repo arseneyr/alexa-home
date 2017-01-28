@@ -1,0 +1,22 @@
+{
+  "name": "alexa-home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "denon-avr": "0.0.5",
+    "express": "^4.14.0",
+    "ping": "^0.1.10",
+    "request": "^2.73.0",
+    "request-promise": "^4.0.0",
+    "wake_on_lan": "0.0.4",
+    "xbox-on": "0.0.6"
+  }
+}
